@@ -16,8 +16,8 @@
 	"r2_buckets": [
 		{
 			"binding": "bucket",
-			"bucket_name": "r2-explorer-bucket",
-			"preview_bucket_name": "r2-explorer-bucket"
+			"bucket_name": "file-manager",
+			"preview_bucket_name": "my-test-bucket"
 		}
 	],
 	"observability": {
