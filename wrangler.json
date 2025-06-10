@@ -7,9 +7,9 @@
 	"compatibility_date": "2025-04-01",
 	"main": "src/index.ts",
 	"name": "r2-file-manager",
-	"route": {
-      "pattern": "file-manager.peakperfdemo.com/*",
-      "zone_name": "peakperfdemo.com"
+	"routes": {
+      "pattern": "file-manager.peakperfdemo.com",
+      "custom_domain": true
     },
 	"assets": {
 		"directory": "node_modules/r2-explorer/dashboard",
